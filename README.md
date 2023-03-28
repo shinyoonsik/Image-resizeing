@@ -1,5 +1,5 @@
 # lambda.edge
-S3에 저장된 이미지를 원하는 크기에 맞게 리사이징하는 프로그램
+S3에 저장된 이미지를 원하는 크기에 맞게 리사이징하는 프로그램   
 
 ## 1. 기술 스택
 - AWS S3
@@ -31,18 +31,8 @@ S3에 저장된 이미지를 원하는 크기에 맞게 리사이징하는 프�
 
 
 
-## 5. 동작 테스트
-- 원본 이미지: https://d16e7e6i3zmw6b.cloudfront.net
-- 100x400 이미지: https://d16e7e6i3zmw6b.cloudfront.net/dev/test.jpg?w=100&h=400
-
-
-## 6. 실행 방법
+## 5. 실행 방법
 - npm install
 - zip -r [결과물.zip] *
 - zip파일을 lambda에 업로드
 
-
-## 7. 참조 인프라 
-- CloudFront: E3PPDFRO6BKS7E
-- Lambda: lambda-image-resize(us-east-1)
-- S3: resizing-image-leo

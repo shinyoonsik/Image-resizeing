@@ -6,7 +6,7 @@ S3에 저장된 이미지를 원하는 크기에 맞게 리사이징하는 프�
 - AWS CloudFront
 - AWS Lambda
 - node.js 14.x
-
+- AWS Route53
 
 ## 2. 아키텍처
 ![img](https://classu.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3f07d679-d5a8-438a-9936-7e075a88f3e6%2FUntitled.png?id=7608e5cf-9d00-4264-86e2-6d2522eff323&table=block&spaceId=1f04f71d-63a9-49f9-bde1-1d1ff960d8e1&width=2000&userId=&cache=v2)
